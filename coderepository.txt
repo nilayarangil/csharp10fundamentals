@@ -1,0 +1,2 @@
+﻿// Write to console
+Console.WriteLine("Hello c#10");
