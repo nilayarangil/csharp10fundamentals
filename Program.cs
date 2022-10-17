@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello c#10");
+﻿Console.WriteLine("How is the Weather?");
+string weather = Console.ReadLine();
+Console.WriteLine("The Weather today is " + weather);
+
